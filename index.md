@@ -10,7 +10,7 @@ Bubble Harvest is a puzzle game for Android. This policy explains what informati
 
 - You don't need an account, and the game never asks for your name, email or contacts.
 - Your progress stays on your phone.
-- The game shows optional video ads from Google AdMob. Google may use information from your device to show and measure those ads, as described below.
+- The game shows ads from Google AdMob: a banner at the bottom of the play screen, and short videos you can choose to watch for extra pins. Google may use information from your device to show and measure those ads, as described below.
 - Where the law asks for it (the European Economic Area, the UK and Switzerland), the game asks for your consent before any ad is loaded. There you can change your choice at any time in Settings → More options → Privacy choices.
 
 ## Information kept on your phone
@@ -22,7 +22,7 @@ Uninstalling the game deletes this information. Settings → More options → Re
 
 ## Ads from Google AdMob
 
-When you choose to watch a short video for extra pins, the video comes from Google AdMob. To show ads, limit how often you see them, measure them and prevent fraud, Google's Mobile Ads SDK may collect information such as:
+The banner at the bottom of the play screen, and any short video you choose to watch for extra pins, come from Google AdMob. To show ads, limit how often you see them, measure them and prevent fraud, Google's Mobile Ads SDK may collect information such as:
 
 - your device's advertising ID, device type and operating system,
 - your IP address and approximate location derived from it,
